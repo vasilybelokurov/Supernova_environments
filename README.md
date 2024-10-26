@@ -30,7 +30,7 @@ Are there any compact onjects coincident with SN Ia explosion location?
 - [A Type Ia Supernova near a Globular Cluster in the Early-type Galaxy NGC 5353](https://ui.adsabs.harvard.edu/abs/2024ApJ...968L...6B/abstract)
 - [Star Clusters as Type Ia Supernova Factories by Shara & Hurley 2002](https://ui.adsabs.harvard.edu/abs/2002ApJ...571..830S/abstract)
 
-## Prompt Supernovae Type Ia in young star-forming regions)
+## Prompt Supernovae Type Ia in young star-forming regions
 
 Are there any blue compact regions dominated by nebular emission coincident with SN Ia explosion location?
 
@@ -44,5 +44,11 @@ Are there any blue compact regions dominated by nebular emission coincident with
 ![Candidate 8](images/decals/fixed_physical/decals_cutout_321.39175_-40.27869444444444.jpg)
 ![Candidate 9](images/decals/fixed_physical/decals_cutout_197.27183333333332_17.07286111111111.jpg)
 ![Candidate 10](images/decals/fixed_physical/decals_cutout_9.507291666666665_-13.860972222222221.jpg)
+
+### Relevant papers
+
+Typically when prompt Type Ia are invoked, the timescale is around 100 million years, see papers below
+- [Two populations of progenitors for Type Ia supernovae? by Mannucci et al 2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.370..773M/abstract)
+
 
 
