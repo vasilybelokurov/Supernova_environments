@@ -6,11 +6,14 @@ This is a to explore the environments (and stare at image cutouts) of historic S
 
 ## Supernovae Type Ia in Globular Clusters (or Star Clusters in general)
 
-<img src="https://raw.githubusercontent.com/vasilybelokurov/Supernova_environments/main/images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg" alt="Logo" width="100"/>
+Are there any compact onjects coincident with SN Ia explosion location?
 
 ![Candidate 1](images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg)
 ![Candidate 2](images/decals/fixed_physical/decals_cutout_187.84104166666665_29.134444444444444.jpg)
 ![Candidate 3](images/decals/fixed_physical/decals_cutout_104.90041666666666_59.51711111111111.jpg)
+![Candidate 4](images/decals/fixed_physical/decals_cutout_49.228899999999996_-0.35597999999999996.jpg)
+![Candidate 5](images/decals/fixed_physical/decals_cutout_36.512191666666666_0.261225.jpg)
+
 
 ### Relevant papers
 - [Type Ia supernovae in globular clusters: observational upper limits by Voss & Nelemans 2012](https://ui.adsabs.harvard.edu/abs/2012A%26A...539A..77V/abstract)
