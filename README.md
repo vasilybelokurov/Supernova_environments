@@ -1,13 +1,16 @@
 # Supernova_environments
 
-This is to stare at image cutouts of the locations of historic SNe
+This is a to explore the environments (and stare at image cutouts) of historic SNe
 
 
 
 ## Supernovae Type Ia in Globular Clusters (or Star Clusters in general)
 
+<img src="images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg)" alt="Logo" width="100"/>
+
 ![Candidate 1](images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg)
 ![Candidate 2](images/decals/fixed_physical/decals_cutout_187.84104166666665_29.134444444444444.jpg)
+![Candidate 3](images/decals/fixed_physical/decals_cutout_104.90041666666666_59.51711111111111.jpg)
 
 ### Relevant papers
 - [Type Ia supernovae in globular clusters: observational upper limits by Voss & Nelemans 2012](https://ui.adsabs.harvard.edu/abs/2012A%26A...539A..77V/abstract)
