@@ -19,6 +19,7 @@ Are there any compact onjects coincident with SN Ia explosion location?
 ![Candidate 9](images/decals/fixed_physical/decals_cutout_29.1471_-0.28857299999999997.jpg)
 ![Candidate 10](images/decals/fixed_physical/decals_cutout_275.50754166666667_66.60338888888889.jpg)
 ![Candidate 11](images/decals/fixed_physical/decals_cutout_21.23845833333333_9.550416666666667.jpg)
+![Candidate 12](images/decals/fixed_physical/decals_cutout_197.27183333333332_17.07286111111111.jpg)
 
 
 ### Relevant papers
@@ -42,5 +43,6 @@ Are there any blue compact regions dominated by nebular emission coincident with
 ![Candidate 7](images/decals/fixed_physical/decals_cutout_353.71954166666666_18.226499999999998.jpg)
 ![Candidate 8](images/decals/fixed_physical/decals_cutout_321.39175_-40.27869444444444.jpg)
 ![Candidate 9](images/decals/fixed_physical/decals_cutout_197.27183333333332_17.07286111111111.jpg)
+![Candidate 10](images/decals/fixed_physical/decals_cutout_9.507291666666665_-13.860972222222221.jpg)
 
 
