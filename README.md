@@ -13,6 +13,11 @@ Are there any compact onjects coincident with SN Ia explosion location?
 ![Candidate 3](images/decals/fixed_physical/decals_cutout_104.90041666666666_59.51711111111111.jpg)
 ![Candidate 4](images/decals/fixed_physical/decals_cutout_49.228899999999996_-0.35597999999999996.jpg)
 ![Candidate 5](images/decals/fixed_physical/decals_cutout_36.512191666666666_0.261225.jpg)
+![Candidate 6](images/decals/fixed_physical/decals_cutout_193.141125_-9.775194444444445.jpg)
+![Candidate 7](images/decals/fixed_physical/decals_cutout_194.70041666666665_27.67377777777778.jpg)
+![Candidate 8](images/decals/fixed_physical/decals_cutout_195.64024999999998_27.43647222222222.jpg)
+![Candidate 9](images/decals/fixed_physical/decals_cutout_29.1471_-0.28857299999999997.jpg)
+![Candidate 10](images/decals/fixed_physical/decals_cutout_275.50754166666667_66.60338888888889.jpg)
 
 
 ### Relevant papers
