@@ -6,7 +6,7 @@ This is a to explore the environments (and stare at image cutouts) of historic S
 
 ## Supernovae Type Ia in Globular Clusters (or Star Clusters in general)
 
-<img src="images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg)" alt="Logo" width="100"/>
+<img src="https://raw.githubusercontent.com/vasilybelokurov/Supernova_environments/main/images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg)" alt="Logo" width="100"/>
 
 ![Candidate 1](images/decals/fixed_physical/decals_cutout_342.1708333333333_8.17.jpg)
 ![Candidate 2](images/decals/fixed_physical/decals_cutout_187.84104166666665_29.134444444444444.jpg)
