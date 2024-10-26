@@ -47,7 +47,7 @@ Are there any blue compact regions dominated by nebular emission coincident with
 
 ### Relevant papers
 
-Typically when prompt Type Ia are invoked, the timescale is around 100 million years, see papers below, not 1-10 million years as the images would imply (if all or most stars in these regions come from the most recent star burst)
+Typically when prompt Type Ia are invoked, the timescale is around 100 million years or longer, see papers below, not 1-10 million years as the above images would imply (if all or most stars in these regions come from the most recent star burst)
 - [Two populations of progenitors for Type Ia supernovae? by Mannucci et al 2006](https://ui.adsabs.harvard.edu/abs/2006MNRAS.370..773M/abstract)
 
 - [Type Ia Supernova Rate Measurements to Redshift 2.5 from CANDELS: Searching for Prompt Explosions in the Early Universe by Rodney et al 2012](https://ui.adsabs.harvard.edu/abs/2014AJ....148...13R/abstract)
